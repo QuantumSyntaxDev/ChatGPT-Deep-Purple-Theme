@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "ChatGPT Deep Purple Theme",
+  "version": "1.0",
+  "description": "Dark purple theme for ChatGPT. Minimal, stylish, and easy on the eyes.",
+  "permissions": ["scripting"],
+  "content_scripts": [
+    {
+      "matches": ["https://chatgpt.com/*"],
+      "js": ["content.js"],
+      "css": ["style.css"]
+    }
+  ]
+}
