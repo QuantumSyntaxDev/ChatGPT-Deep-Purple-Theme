@@ -1,18 +1,17 @@
-````markdown
 # ChatGPT Deep Purple Theme
 
-![Screenshot](https://github.com/QuantumSyntaxDev/ChatGPT-Deep-Purple-Theme/blob/main/image.png)
+A sleek, dark purple theme designed to enhance the ChatGPT interface with a modern, vibrant aesthetic.
 
-**Description:** Dark purple theme for ChatGPT.
+![ChatGPT Deep Purple Theme Screenshot](https://github.com/QuantumSyntaxDev/ChatGPT-Deep-Purple-Theme/raw/main/image.png)
 
-**Installation:**
-1. Download or clone the repo:
+## Description
+
+The **ChatGPT Deep Purple Theme** transforms the ChatGPT interface into a stylish, dark purple-themed experience. Ideal for users who prefer a darker, visually appealing look while interacting with ChatGPT.
+
+## Installation
+
+Follow these steps to install the ChatGPT Deep Purple Theme on a Chromium-based browser (e.g., Google Chrome, Microsoft Edge):
+
+1. **Download or Clone the Repository**:
    ```bash
    git clone https://github.com/QuantumSyntaxDev/ChatGPT-Deep-Purple-Theme.git
-````
-
-2. Open a Chromium-based browser and go to `chrome://extensions/`.
-3. Enable **Developer mode**.
-4. Click **Load unpacked** and select the repository folder.
-
-```
